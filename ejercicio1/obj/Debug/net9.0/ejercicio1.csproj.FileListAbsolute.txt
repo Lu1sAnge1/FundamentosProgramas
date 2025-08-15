@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\bin\Debug\net9.0\ejercicio1.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\bin\Debug\net9.0\ejercicio1.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\bin\Debug\net9.0\ejercicio1.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\bin\Debug\net9.0\ejercicio1.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\bin\Debug\net9.0\ejercicio1.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\refint\ejercicio1.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll

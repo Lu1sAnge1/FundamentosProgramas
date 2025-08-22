@@ -1,5 +1,19 @@
 ﻿//Ejercicios de clase
 
+#region Ejercicios
+
+//ImprimirAtributos1();
+//CaracteresDeEscape();
+//BanderasDeColores1();
+//BanderasDeColores2();
+//BanderasDeColores3();
+//EstadisticasDeJugador();
+EstadisticasDeJugador2();
+
+#endregion
+
+#region Soluciones
+
 void ImprimirAtributos1(){
     //ejercicio jugador
     Console.WriteLine("PLAYER STATS");
@@ -9,12 +23,18 @@ void ImprimirAtributos1(){
     Console.WriteLine("GOLD   4,500");
     Console.WriteLine("EXP      300");
     Console.WriteLine("------------");
+
+    Console.WriteLine();
+    Console.WriteLine();
 }
 
 void CaracteresDeEscape(){
     //ejercicio jugador2
     Console.Write("PLAYER STATS \n------------\nHP      100 \nMP      100 \nGOLD   4,500 \nEXP      300 \n------------\n");
     Console.Write("PLAYER STATS \n------------\nHP\t100\nMP\t100\nGOLD\t4,500\nEXP\t300\n------------\n");
+
+    Console.WriteLine();
+    Console.WriteLine();
 }
 
 void BanderasDeColores1(){
@@ -37,6 +57,9 @@ void BanderasDeColores1(){
     Console.BackgroundColor = ConsoleColor.DarkRed;
     Console.Write("CO");
     Console.ResetColor();
+
+    Console.WriteLine();
+    Console.WriteLine();
 }
 
 void BanderasDeColores2(){
@@ -60,6 +83,9 @@ void BanderasDeColores2(){
     Console.BackgroundColor = ConsoleColor.Yellow;
     Console.Write("NIA");
     Console.ResetColor();
+
+    Console.WriteLine();
+    Console.WriteLine();
 }
 
 void BanderasDeColores3(){
@@ -89,9 +115,10 @@ void EstadisticasDeJugador(){
     Console.WriteLine(arma);
 
     Console.WriteLine();
+    Console.WriteLine();
 }
 
-void EstadisticasDeJugador3(){
+void EstadisticasDeJugador2(){
     //ejercicio estadisticas jugador2
     String separador = "---------------------";
     string name      = "Shiki";
@@ -102,13 +129,17 @@ void EstadisticasDeJugador3(){
 
     Console.WriteLine("    PLAYER STATS");
     Console.WriteLine(separador);
+    Console.WriteLine(name);
     Console.WriteLine($"HP:\t {hp}");
     Console.WriteLine($"MANA:\t {mana}");
     Console.WriteLine($"GOLD:\t {gold}");
     Console.WriteLine($"EXP:\t {exp}");
     Console.WriteLine(separador);
+
+    Console.WriteLine();
+    Console.WriteLine();
 }
 
-
+#endregion
 
 

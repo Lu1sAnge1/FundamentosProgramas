@@ -6,7 +6,9 @@
 //Ejercicio #2
 //BiografiaDePersonaje();
 //Ejercicio #3
-AtributosDeArma();
+//AtributosDeArma();
+//Ejercicio #4
+ArbolDeNavidadColor();
 
 #endregion
 
@@ -58,5 +60,31 @@ void AtributosDeArma() {
 
 }
 
+//Ejercicio #4
+//dar color a arbol de navidad
+void ArbolDeNavidadColor() {
 
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.WriteLine("           *           ");
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine("          ( )          ");
+    Console.WriteLine("         (   )         ");
+    Console.Write    ("        (");
+    Console.ForegroundColor = ConsoleColor.DarkRed;
+    Console.Write    (" *");
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine("   )        ");
+    Console.Write    ("       (");
+    Console.ForegroundColor = ConsoleColor.DarkBlue;
+    Console.Write    ("   * O ");
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine(")");
+    Console.ForegroundColor = ConsoleColor.DarkMagenta;
+    Console.WriteLine("      (    O *  )      ");
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine("     (___________)     ");
+    Console.ResetColor();
+    Console.WriteLine("         |  |          ");
+    Console.WriteLine("         |  |          ");
+}
 #endregion

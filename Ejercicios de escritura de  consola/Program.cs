@@ -34,8 +34,8 @@ void BiografiaDePersonaje() {
     string Ocupacion = "Hechicero";
     string Ubicacion = "Torre del reloj";
 
-    Console.WriteLine($"Nombre:\t {Nombre}");
-    Console.WriteLine($"Edad:\t {Edad}");
+    Console.WriteLine($"Nombre:\t\t {Nombre}");
+    Console.WriteLine($"Edad:\t\t {Edad}");
     Console.WriteLine($"Ocupacion:\t {Ocupacion}");
     Console.WriteLine($"Ubicacion:\t {Ubicacion}");
 }

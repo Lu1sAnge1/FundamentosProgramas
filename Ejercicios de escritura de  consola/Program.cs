@@ -4,7 +4,9 @@
 //Ejercicio #1
 //ArbolDeNavidad();
 //Ejercicio #2
-BiografiaDePersonaje();
+//BiografiaDePersonaje();
+//Ejercicio #3
+AtributosDeArma();
 
 #endregion
 
@@ -23,6 +25,7 @@ void ArbolDeNavidad() {
     Console.WriteLine("         |  |          ");
     Console.WriteLine("         |  |          ");
 }
+
 //Ejercicio #2
 //imprimir datos de un personaje
 void BiografiaDePersonaje() {
@@ -31,9 +34,29 @@ void BiografiaDePersonaje() {
     string Ocupacion = "Hechicero";
     string Ubicacion = "Torre del reloj";
 
-    Console.WriteLine("   Nombre :\t" + Nombre);
-    Console.WriteLine("   Edad :\t" + Edad);
-    Console.WriteLine("   Ocupacion :\t" + Ocupacion);
-    Console.WriteLine("   Ubicacion :\t" + Ubicacion);
+    Console.WriteLine($"Nombre:\t {Nombre}");
+    Console.WriteLine($"Edad:\t {Edad}");
+    Console.WriteLine($"Ocupacion:\t {Ocupacion}");
+    Console.WriteLine($"Ubicacion:\t {Ubicacion}");
 }
+
+//Ejercicio #3
+//imprimir atributos de un arma
+void AtributosDeArma() {
+    string  Nombre    = "DragonSlayer";
+    string  Rareza    = "Legendaria";
+    int     Daño      = 600;
+    float   Velocidad = 256.5f;
+    decimal Costo     = 340;
+
+
+    Console.WriteLine($"Nombre:\t\t {Nombre}");
+    Console.WriteLine($"Rareza:\t\t {Rareza}");
+    Console.WriteLine($"Daño:\t\t {Daño}");
+    Console.WriteLine($"Velocidad:\t {Velocidad}");
+    Console.WriteLine($"Costo:\t\t {Costo}");
+
+}
+
+
 #endregion

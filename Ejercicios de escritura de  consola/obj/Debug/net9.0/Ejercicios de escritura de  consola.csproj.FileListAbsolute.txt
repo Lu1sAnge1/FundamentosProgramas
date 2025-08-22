@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\bin\Debug\net9.0\Ejercicios de escritura de  consola.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\bin\Debug\net9.0\Ejercicios de escritura de  consola.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\bin\Debug\net9.0\Ejercicios de escritura de  consola.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\bin\Debug\net9.0\Ejercicios de escritura de  consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\bin\Debug\net9.0\Ejercicios de escritura de  consola.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\refint\Ejercicios de escritura de  consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\Ejercicios de escritura de  consola.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de escritura de  consola\obj\Debug\net9.0\ref\Ejercicios de escritura de  consola.dll

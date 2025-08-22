@@ -1,3 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//ejercicios de escritura de consola
+#region Ejercicios
 
-Console.WriteLine("Hello, World!");
+//Ejericio #1
+ArbolDeNavidad();
+
+#endregion
+
+#region Soluciones
+
+//ejercicio #1
+//generar un arbol de navidad en la consola
+void ArbolDeNavidad() {
+    Console.WriteLine("           *             ");
+    Console.WriteLine("          ( )            ");
+    Console.WriteLine("         (   )           ");
+    Console.WriteLine("        ( *   )           ");
+    Console.WriteLine("       (   * O )           ");
+    Console.WriteLine("      (    O *  )           ");
+    Console.WriteLine("     (___________)           ");
+    Console.WriteLine("         |  |                    ");
+    Console.WriteLine("         |  |                     ");
+}
+
+#endregion

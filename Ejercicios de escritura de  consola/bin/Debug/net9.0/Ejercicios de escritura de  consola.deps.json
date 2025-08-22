@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejercicios de escritura de  consola/1.0.0": {
+        "runtime": {
+          "Ejercicios de escritura de  consola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios de escritura de  consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

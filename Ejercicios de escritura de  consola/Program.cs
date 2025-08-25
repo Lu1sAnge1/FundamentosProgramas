@@ -10,7 +10,7 @@
 //Ejercicio #4
 //ArbolDeNavidadColor();
 //BiografiaDePersonaje2();
-AtributosDeArma2();
+//AtributosDeArma2();
 
 #endregion
 

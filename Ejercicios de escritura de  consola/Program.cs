@@ -9,7 +9,9 @@
 //AtributosDeArma();
 //Ejercicio #4
 //ArbolDeNavidadColor();
-BiografiaDePersonaje2();
+//BiografiaDePersonaje2();
+AtributosDeArma2();
+
 #endregion
 
 #region Soluciones
@@ -104,6 +106,30 @@ void BiografiaDePersonaje2() {
 
 }
 
+//Ejercicio #6
+//Estilizar atributos de arma
+void AtributosDeArma2() {
+    string  Nombre    = "DragonSlayer";
+    string  Rareza    = "Legendaria";
+    int     Daño      = 600;
+    float   Velocidad = 256.5f;
+    decimal Costo     = 340;
+    String  separador = "-------------------------------";
 
+    Console.WriteLine(separador);
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine($"Nombre:\t\t {Nombre}");
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.WriteLine($"Rareza:\t\t {Rareza}");
+    Console.ForegroundColor = ConsoleColor.DarkMagenta;
+    Console.WriteLine($"Daño:\t\t {Daño}");
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine($"Velocidad:\t {Velocidad}");
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine($"Costo:\t\t {Costo}");
+    Console.ResetColor();
+    Console.WriteLine(separador);
+
+}
 
 #endregion

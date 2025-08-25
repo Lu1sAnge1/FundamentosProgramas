@@ -79,12 +79,15 @@ void ArbolDeNavidadColor() {
     Console.Write    ("   * O ");
     Console.ForegroundColor = ConsoleColor.DarkGreen;
     Console.WriteLine(")");
+    Console.Write("      (");
     Console.ForegroundColor = ConsoleColor.DarkMagenta;
-    Console.WriteLine("      (    O *  )      ");
+    Console.Write("    O *");
     Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine("  )      ");
     Console.WriteLine("     (___________)     ");
+    Console.ForegroundColor = ConsoleColor.DarkYellow;
+    Console.WriteLine("         |  |          ");
+    Console.WriteLine("         |  |          ");
     Console.ResetColor();
-    Console.WriteLine("         |  |          ");
-    Console.WriteLine("         |  |          ");
 }
 #endregion

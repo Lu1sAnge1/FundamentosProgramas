@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\bin\Debug\net9.0\Ejercicio de lectura de consola.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\bin\Debug\net9.0\Ejercicio de lectura de consola.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\bin\Debug\net9.0\Ejercicio de lectura de consola.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\bin\Debug\net9.0\Ejercicio de lectura de consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\bin\Debug\net9.0\Ejercicio de lectura de consola.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\refint\Ejercicio de lectura de consola.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\Ejercicio de lectura de consola.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicio de lectura de consola\obj\Debug\net9.0\ref\Ejercicio de lectura de consola.dll

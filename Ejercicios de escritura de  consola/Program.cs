@@ -132,4 +132,6 @@ void AtributosDeArma2() {
 
 }
 
+
+
 #endregion

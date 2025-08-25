@@ -43,7 +43,11 @@ Estructura de programa
 
 **division de bloques**
 ````csharp
-    void NOMBRE () {}  CREAR BLOQUE
+    void NOMBRE () 
+    {
+        CODIGO 
+    }             CREAR BLOQUE
+        
     NOMBRE();  LLAMAR BLOQUE
 ````
 **Region**

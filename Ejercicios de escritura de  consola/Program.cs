@@ -8,8 +8,8 @@
 //Ejercicio #3
 //AtributosDeArma();
 //Ejercicio #4
-ArbolDeNavidadColor();
-
+//ArbolDeNavidadColor();
+BiografiaDePersonaje2();
 #endregion
 
 #region Soluciones
@@ -90,4 +90,20 @@ void ArbolDeNavidadColor() {
     Console.WriteLine("         |  |          ");
     Console.ResetColor();
 }
+
+//Ejercicio #5
+//Dar historia al personaje
+void BiografiaDePersonaje2() {
+    string Nombre    = "Shiki";
+    byte   Edad      = 22;
+    string Ocupacion = "Hechicero";
+    string Ubicacion = "Torre del reloj";
+
+    Console.WriteLine($"Dentro de la parte más alta de la {Ubicacion} se encuentra {Nombre}. ");
+    Console.WriteLine($"{Nombre} es un {Ocupacion} de gran renombre, apesar de solo haber cumplido {Edad} años recientemente.");
+
+}
+
+
+
 #endregion

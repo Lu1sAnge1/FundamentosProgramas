@@ -1,6 +1,6 @@
 ﻿   # GUIA C SHARP
    
-**Imprimir consola**
+**Imprimir consola*
 -
 - Console.Write - texto seguido
 - Console.Writeline - texto con espacio

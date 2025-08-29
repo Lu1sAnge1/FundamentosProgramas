@@ -38,4 +38,7 @@ void PreguntarNombre2() {
     Console.WriteLine($"Hola {nombre}, naciste en {nacimiento}");
 
 }
+
+
+
 #endregion

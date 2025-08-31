@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios de escritura de 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de lectura de consola", "Ejercicio de lectura de consola\Ejercicio de lectura de consola.csproj", "{4AD484BC-90F1-4CDC-9876-FDC6A0AB0D0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios de tarea 1-09-25", "Ejercicios de tarea 1-09-25\Ejercicios de tarea 1-09-25.csproj", "{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4AD484BC-90F1-4CDC-9876-FDC6A0AB0D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD484BC-90F1-4CDC-9876-FDC6A0AB0D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD484BC-90F1-4CDC-9876-FDC6A0AB0D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\bin\Debug\net9.0\Ejercicios de tarea 1-09-25.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\bin\Debug\net9.0\Ejercicios de tarea 1-09-25.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\bin\Debug\net9.0\Ejercicios de tarea 1-09-25.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\bin\Debug\net9.0\Ejercicios de tarea 1-09-25.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\bin\Debug\net9.0\Ejercicios de tarea 1-09-25.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\refint\Ejercicios de tarea 1-09-25.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\Ejercicios de tarea 1-09-25.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Ejercicios de tarea 1-09-25\obj\Debug\net9.0\ref\Ejercicios de tarea 1-09-25.dll

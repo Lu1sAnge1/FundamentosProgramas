@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio de lectura de consola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5c9286c10d9777135481bf0ee74c56077d62ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3305272f686561196d8e2c6e6c825d591673c8ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio de lectura de consola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio de lectura de consola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

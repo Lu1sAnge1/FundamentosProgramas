@@ -11,9 +11,13 @@
 //ejercicio 4
 //CalculadoraDaño2();
 //ejercicio 5
-VendedorPociones2();
+//VendedorPociones2();
 //ejercicio 6
 //DivisorBotin2();
+//ejercicio 7
+//MiniAventura();
+//ejercicio 8
+MiniAventura2();
 
 #endregion
 
@@ -305,6 +309,67 @@ void DivisorBotin2() {
     else
     {
         Console.Write("Ninguno de los valores ingresados son validos ");
+    }
+}
+
+//ejercicio 7
+//MiniAventura1
+void MiniAventura() {
+
+    Console.WriteLine("Te acabas de despertar en una habitacion cerrada con una puerta en cada pared, cada puerta tien una direccion marcada  norte, sur, este, oeste");
+    Console.WriteLine("Escribe a que puerta quieres entrar:");
+    string input = Console.ReadLine();
+
+    if (input == "norte" || input == "NORTE" )
+    {
+        Console.WriteLine("Entras en a puerta norte, te encuentras con un cuadro de aspecto extraño");
+    }
+    else if (input == "este" || input == "ESTE")
+    {
+        Console.WriteLine("Entras en la puerta este, observas un cuarto vacio con un closet cerrado");
+    }
+    else if (input == "oeste" ||  input == "OESTE")
+    {
+        Console.WriteLine("Entras en la puerta oeste, Te encuentras con una puerta a lo que parece un sotano");
+    }
+    else if (input == "sur"  || input == "SUR")
+    {
+        Console.WriteLine("Observas una mesa con una caja fuerte encima");
+    }
+    else
+    {
+        Console.WriteLine("No ingresaste un comando valido");
+    }
+}
+
+//ejercicio8
+//MiniAventura2
+void MiniAventura2() {
+
+    Console.WriteLine("Te acabas de despertar en una habitacion cerrada con una puerta en cada pared, cada puerta tien una direccion marcada  norte, sur, este, oeste");
+    Console.WriteLine("Escribe a que puerta quieres entrar:");
+    string input = Console.ReadLine();
+
+    if (input == "norte" || input == "NORTE" )
+    {
+        Console.WriteLine("Entras en a puerta norte, te encuentras con un cuadro de aspecto extraño");
+    }
+    else if (input == "este" || input == "ESTE")
+    {
+        Console.WriteLine("Entras en la puerta este, observas un cuarto vacio con un closet cerrado");
+    }
+    else if (input == "oeste" ||  input == "OESTE")
+    {
+        Console.WriteLine("Entras en la puerta oeste, Te encuentras con una puerta a lo que parece un sotano");
+    }
+    else if (input == "sur"  || input == "SUR")
+    {
+        Console.WriteLine("Observas una mesa con una caja fuerte encima");
+        Console.WriteLine("La caja fuerte tiene una contraseña, al lado tienes dos ");
+    }
+    else
+    {
+        Console.WriteLine("No ingresaste un comando valido");
     }
 }
 

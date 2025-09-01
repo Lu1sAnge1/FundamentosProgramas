@@ -8,9 +8,12 @@
 //VendedorPociones();
 //ejercicio 3
 //DivisorBotin();
+//ejercicio 4
 //CalculadoraDaño2();
-//VendedorPociones2();
-DivisorBotin2();
+//ejercicio 5
+VendedorPociones2();
+//ejercicio 6
+//DivisorBotin2();
 
 #endregion
 

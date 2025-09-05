@@ -320,6 +320,8 @@ void MiniAventura() {
     Console.WriteLine("Escribe a que puerta quieres entrar:");
     string input = Console.ReadLine();
 
+
+
     if (input == "norte" || input == "NORTE" )
     {
         Console.WriteLine("Entras en a puerta norte, te encuentras con un cuadro de aspecto extraño");

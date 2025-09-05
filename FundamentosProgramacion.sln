@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de lectura de con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios de tarea 1-09-25", "Ejercicios de tarea 1-09-25\Ejercicios de tarea 1-09-25.csproj", "{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios II", "Ejercicios II\Ejercicios II.csproj", "{CC46AA3A-AA1C-461E-B426-963E5024A3DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4113238-5F1D-4F34-BCBA-56B2D3FCDED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC46AA3A-AA1C-461E-B426-963E5024A3DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC46AA3A-AA1C-461E-B426-963E5024A3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC46AA3A-AA1C-461E-B426-963E5024A3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC46AA3A-AA1C-461E-B426-963E5024A3DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

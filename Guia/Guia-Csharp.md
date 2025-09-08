@@ -25,6 +25,7 @@ string nombre = nombre;
 float numero = 1f;
 ````
 
+!= (no es igual a)
 
 **Interpolacion**
 ````csharp
@@ -56,5 +57,26 @@ Estructura de programa
 #endregion
 ````
 
+**Leer Texto**
+````csharpc
+string input = Console.ReadLine();
+````
+
+**Convertir Texto a dato numerico**
+````csharpc
+ bool isValid = int.TryParse(input, out int output); // int se puede cambiar por cualquier tipo de dato
+ //bool isValid para comprobar si el dato es correcto
+````
+**Normalizar texto recibido**
+````csharpc
+string inputnormalizado = input.Trim().ToUpper(); //quitar espacios y convertir a mayusculas
+string inputnormalizado = input.Trim().ToLower(); //quitar espacios y convertir a minusculas
+//.Trim quita los espacios al inicio y al final de las cadenas
+````
+**Comprobar Longitud de una cadena**
+````csharpc
+inputnormalizado.Length = numero de caracteres
+
+````
 
 

@@ -3,7 +3,7 @@
 #region Ejercicios
 
 //ejercicio 1
-//CalculadoraDaño();
+CalculadoraDaño();
 //ejercicio 2
 //VendedorPociones();
 //ejercicio 3

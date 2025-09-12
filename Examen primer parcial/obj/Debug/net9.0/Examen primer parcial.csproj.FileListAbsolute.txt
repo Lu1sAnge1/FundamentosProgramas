@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\bin\Debug\net9.0\Examen primer parcial.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\bin\Debug\net9.0\Examen primer parcial.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\bin\Debug\net9.0\Examen primer parcial.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\bin\Debug\net9.0\Examen primer parcial.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\bin\Debug\net9.0\Examen primer parcial.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\refint\Examen primer parcial.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\Examen primer parcial.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\Examen primer parcial\obj\Debug\net9.0\ref\Examen primer parcial.dll

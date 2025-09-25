@@ -53,7 +53,29 @@ void TiradaDeHabilidad() {
     Console.WriteLine("Ingrese su bono de equipo");
     string bono = Console.ReadLine();
 
+    const int dificul = 30;
 
+    bool isvalid = int.TryParse(dest, out int destf);
+    bool isvalid2 = int.TryParse(bono, out int bonof);
+
+    if (isvalid && isvalid2)
+    {
+        int sigilo = (destf * 2) + bonof;
+
+        if (sigilo >= dificul)
+        {
+            Console.WriteLine("Exito");
+        }
+        else
+        {
+            Console.WriteLine("Fracaso");
+        }
+    }
+
+    else
+    {
+        Console.WriteLine("no ingrsaste numeros validos");
+    }
 
 }
 

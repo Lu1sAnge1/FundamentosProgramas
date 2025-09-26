@@ -79,4 +79,12 @@ inputnormalizado.Length = numero de caracteres
 
 ````
 
+Tipo de dato 
+
+var (permite asiganr cualquier tipo de dato)
+var "nombre de variable" = "tipo de dato"
+
+null (representa la ausencia de valor)
+
+
 

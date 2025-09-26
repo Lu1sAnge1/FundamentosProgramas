@@ -6,8 +6,12 @@
 //calculadoraexp();
 
 //ejercicio2
+//Tirada de habilidad
 TiradaDeHabilidad();
 
+//Ejercicio3
+//Validacion de mensaje de mision
+ValidacionMensaje();
 
 #endregion
 
@@ -76,6 +80,13 @@ void TiradaDeHabilidad() {
     {
         Console.WriteLine("no ingrsaste numeros validos");
     }
+
+}
+
+//ejercicio 3
+void ValidacionMensaje() {
+
+    Console.WriteLine("Escriba la descripcion de una mision");
 
 }
 

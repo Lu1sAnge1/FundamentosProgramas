@@ -3,7 +3,7 @@
 #region Ejercicios
 //ejercicio1
 //calculadora exp
-calculadoraexp();
+//calculadoraexp();
 
 //ejercicio2
 TiradaDeHabilidad();

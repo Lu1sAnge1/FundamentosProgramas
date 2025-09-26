@@ -1,0 +1,15 @@
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\bin\Debug\net9.0\EjerciciosClase1Parcial2.exe
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\bin\Debug\net9.0\EjerciciosClase1Parcial2.deps.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\bin\Debug\net9.0\EjerciciosClase1Parcial2.runtimeconfig.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\bin\Debug\net9.0\EjerciciosClase1Parcial2.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\bin\Debug\net9.0\EjerciciosClase1Parcial2.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.AssemblyInfoInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.AssemblyInfo.cs
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.sourcelink.json
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\refint\EjerciciosClase1Parcial2.dll
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.pdb
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\EjerciciosClase1Parcial2.genruntimeconfig.cache
+C:\Users\luis_\RiderProjects\FundamentosProgramas\EjerciciosClase1Parcial2\obj\Debug\net9.0\ref\EjerciciosClase1Parcial2.dll

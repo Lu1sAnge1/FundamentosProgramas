@@ -7,17 +7,15 @@
 
 //ejercicio2
 //Tirada de habilidad
-TiradaDeHabilidad();
+//TiradaDeHabilidad();
 
 //Ejercicio3
 //Validacion de mensaje de mision
-ValidacionMensaje();
+//ValidacionMensaje();
 
+//ejercicio 4
+//ArteConsola();
 #endregion
-
-
-
-
 
 #region  Soluciones
 
@@ -84,10 +82,56 @@ void TiradaDeHabilidad() {
 }
 
 //ejercicio 3
+//validacion de mensaje objetivo
 void ValidacionMensaje() {
 
-    Console.WriteLine("Escriba la descripcion de una mision");
+    Console.WriteLine("Escriba la descripcion de una mision, tiene que iniciar con la palabra (objetivo)");
+    string frase = Console.ReadLine();
+
+    string frasef = frase.Trim();
+
+    if (frasef.StartsWith("Objetivo:") && frasef.Length > 0 && frasef.Length <60)
+    {
+        Console.WriteLine("TRUE");
+    }
+    else
+    {
+        Console.WriteLine("FALSE");
+    }
+
 
 }
+
+//ejercicio 4
+//arte en consola
+void ArteConsola() {
+
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.WriteLine("       /\\_/\\       ");
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.Write("      ( ");
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.Write("o");
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.Write(".");
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.Write("o");
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.WriteLine(" )      ");
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.Write("       ");
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.Write(">");
+    Console.Write(" ^ ");
+    Console.WriteLine("<");
+    Console.ForegroundColor = ConsoleColor.DarkGray;
+    Console.WriteLine("     (       )   ///  ");
+    Console.WriteLine("    ( '_' '_' )//    ");
+    Console.WriteLine("      '--'--'      ");
+
+    Console.ResetColor();
+
+}
+
 
 #endregion

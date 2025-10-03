@@ -6,7 +6,7 @@
 //EstadoVida();
 
 //ejercicio 2
-VidaColor();
+//VidaColor();
 
 //ejercicio 3
 //CargaJugador();
@@ -24,7 +24,7 @@ VidaColor();
 //Pociones();
 
 //ejercicio 8
-BonoEstado();
+//BonoEstado();
 
 #endregion
 
@@ -95,15 +95,96 @@ void EstadoVida() {
 //ejercicio 2
 void VidaColor() {
 
-    Console.WriteLine("Ingresa tu vida actual entre 0 y 10");
+    Console.WriteLine("Ingresa tu vida actual entre 0 y 100");
     string vida = Console.ReadLine();
 
-    bool IsValid =  int.TryParse(vida, out int vidav);
+    bool IsValid =  int.TryParse(vida, out int vidac);
+
+    var vidav = vidac/10;
 
     if (IsValid && vidav <= 10 && vidav >= 0)
     {
 
+        if (vidac == 100)
+        {
+        Console.ForegroundColor = ConsoleColor.Green;
+        }
+        else if (vidac < 100 && vidac >= 75)
+        {
+            Console.ForegroundColor = ConsoleColor.Blue;
+        }
+        else if (vidac < 75 && vidac >= 50)
+        {
+            Console.ForegroundColor = ConsoleColor.Cyan;
+        }
+        else if (vidac < 50 && vidac >= 25)
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+        }
+        else if (vidac < 25 && vidac >= 10)
+        {
+            Console.ForegroundColor = ConsoleColor.Magenta;
+        }
+        else if (vidac < 10  && vidac >= 1)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+        }
+        else  if (vidac == 0)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+        }
 
+
+        if (vidav == 0)
+        {
+            Console.WriteLine("[----------]");
+        }
+        else if (vidav == 1)
+        {
+            Console.WriteLine("[|---------]");
+        }
+        else if (vidav == 2)
+        {
+            Console.WriteLine("[||--------]");
+        }
+        else if (vidav == 3)
+        {
+            Console.WriteLine("[|||-------]");
+        }
+        else if (vidav == 4)
+        {
+            Console.WriteLine("[||||------]");
+        }
+        else if (vidav == 5)
+        {
+            Console.WriteLine("[|||||-----]");
+        }
+        else if (vidav == 6)
+        {
+            Console.WriteLine("[||||||----]");
+        }
+        else if (vidav == 7)
+        {
+            Console.WriteLine("[|||||||---]");
+        }
+        else if (vidav == 8)
+        {
+            Console.WriteLine("[||||||||--]");
+        }
+        else if (vidav == 9)
+        {
+            Console.WriteLine("[|||||||||-]");
+        }
+        else
+        {
+            Console.WriteLine("[||||||||||]");
+        }
+
+
+    }
+    else
+    {
+        Console.WriteLine("No ingresaste un valor valido");
     }
 
 }

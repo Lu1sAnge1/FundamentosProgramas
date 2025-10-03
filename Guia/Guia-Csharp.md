@@ -79,12 +79,41 @@ inputnormalizado.Length = numero de caracteres
 
 ````
 
-Tipo de dato 
-
+**Tipo de dato 
+````csharpc
 var (permite asiganr cualquier tipo de dato)
 var "nombre de variable" = "tipo de dato"
 
 null (representa la ausencia de valor)
+````
 
+**randomizador 
+````csharpc
+var random = new Random();
+var variable = random.Next(min,max);
 
+````
+**estrucutura switch
+````csharpc
+switch (variable)
+{
+   case valor:
+         // proceso
+       break:
+   case valor:
+         // proceso
+       break:
+   default:
+        // no coincide ningun valor
+       break:
+}
 
+````
+
+**operador ternario
+````csharpc
+condicion ? valor si de cumple : condicion si no se cumple ;
+
+string mensage = isLoggedIn ? "welcome back" : "please log in";
+
+````
